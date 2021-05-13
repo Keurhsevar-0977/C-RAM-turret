@@ -1,0 +1,8 @@
+name: "c-ram"
+displayName: "C-RAM Turret"
+author: Yourself
+description: "Adds the 'C-RAM' turret to the game. Uses vanilla resources for the sake of being easy to code."
+version: "1.0"
+minGameVersion: "126.2"
+dependencies: [ ]
+hidden: false
